@@ -62,9 +62,9 @@ Ajustes finais.
   <tr>  
     <td align="center">
       <a href="https://github.com/devictorguedes">
-        <img src="https://github.com/HozaniaB.png" width="100px;" alt="Foto de Hozania"/><br>
+        <img src="https://github.com/devictorguedes.png" width="100px;" alt="Foto de Victor"/><br>
         <sub>
-          <b>Hozania Barnabé</b>
+          <b>Victor Guedes</b>
         </sub>
       </a>
     </td>
