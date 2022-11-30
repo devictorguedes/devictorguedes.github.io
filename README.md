@@ -5,7 +5,7 @@ My Resume
 <em>EBAC- Escola Britânica de Artes Criativas & Tecnologia</em>
 </p>
 
-## 😏- Meu Primeiro Projeto Front-End
+## 😏- Meu Primeiro No Git
 <code>
 🎯 Construção de uma página de currículo fazendo uso das melhores práticas de desenvolvimento web, trabalhando com HTML, CSS e GitHub.
 </code>
